@@ -49,5 +49,3 @@ This document records the chronological progress of the research project, includ
 - Document privacy, GDPR and EU AI Act considerations.
 
 ---
-
-**Maintenance note:** Add a dated entry whenever a significant research activity is completed. Record actual dates and outcomes, rather than planned activities as completed work.
