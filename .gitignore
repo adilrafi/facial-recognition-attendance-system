@@ -219,3 +219,7 @@ __marimo__/
 
 # Additional local virtual environment
 .venv-deepface/
+
+# Local facial-recognition degradation datasets and inspection outputs
+methodology_preparation/05_image_degradation/pilot_output/
+methodology_preparation/05_image_degradation/full_output/
